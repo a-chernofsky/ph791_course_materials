@@ -18,7 +18,6 @@
 # load libraries ----------------------------------------------------------
 
 library(readxl)
-library(geepack)
 library(doBy)
 library(weights)
 
